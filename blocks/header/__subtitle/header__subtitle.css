@@ -1,0 +1,9 @@
+.header__subtitle {
+    position: absolute;
+    left: 64px;
+    bottom: 30px;
+    width: 338px;
+    line-height: 25px;
+    font-size: 18px;
+    z-index: 3;
+}
